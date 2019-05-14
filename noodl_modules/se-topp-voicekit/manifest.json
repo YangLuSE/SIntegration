@@ -1,0 +1,7 @@
+{
+  "main":"main.js",
+  "dependencies":[
+    "speech.sdk.bundle.js",
+    "aws-sdk-2.205.0.min.js"
+  ]
+}
